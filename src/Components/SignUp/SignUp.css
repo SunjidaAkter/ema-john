@@ -1,0 +1,14 @@
+.form-container {
+    border: 1px solid #95A0A7;
+    padding: 42px;
+    margin-top: 100px;
+    border-radius: 8px;
+    box-shadow: -10px 10px rgba(255, 224, 179, 1);
+    margin-bottom: 40px;
+    width: 40%;
+
+}
+
+.sweet {
+    color: orange;
+}

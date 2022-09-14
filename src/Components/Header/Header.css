@@ -1,0 +1,17 @@
+.nav-container {
+    background-color: rgba(28, 43, 53, 1);
+    position: sticky;
+    padding: 16px 0;
+    top: 0;
+
+}
+
+.link {
+    color: white;
+    margin-left: 36px;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: orange;
+}
